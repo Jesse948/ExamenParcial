@@ -85,8 +85,7 @@
             if(arrayRegistro.size()==0)
             {
                 numeroRegistro="1";
-            }
-            else
+            }else
             {
                 for(int contador=0;contador<arrayRegistro.size();contador++)
                 {
